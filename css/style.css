@@ -483,7 +483,7 @@ section{
     font-size: 55%;
   }
 
-  .body{
+  body{
     padding-left: 0;
   }
 
@@ -504,10 +504,10 @@ section{
 @media (max-width:450px){
   html{
     font-size: 50%;
-    padding-left: 5rem;
   }
 
   .header{
     width: 100%;
+    border-right: 0;
   }
 }
