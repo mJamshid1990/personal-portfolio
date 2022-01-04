@@ -84,7 +84,7 @@ section{
 .header{
   position: fixed;
   top: 0; left: 0;
-  z-index: inherit;
+  z-index: 999;
   background: var(--bg-color);
   width: 30rem;
   border-right: var(--border);
